@@ -33,3 +33,5 @@ The deliverable for this task is a Jupyter Notebook that documents the entire wo
 Through this task, we aim to gain hands-on experience in implementing NLP techniques and machine learning algorithms to solve real-world problems like sentiment analysis. The skills developed here are highly applicable in domains such as e-commerce, customer service, and social media analysis.
 
 # OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/b087b4d9-a870-4cb3-b3d9-a1cf918d1686)
